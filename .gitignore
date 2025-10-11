@@ -1,0 +1,5 @@
+# Ignore the Python virtual environment folder
+venv/
+
+# Ignore the downloaded datasets folder
+data/
